@@ -31,3 +31,9 @@ ___________________
 3-1. torch에서 out이 의미하는 바가 . 따라서 out[-1]는 last layer(encoder) output이고 out[-2]는 second to last layer output이다. 커널에서는 주로 output[-1] + output[-2] 두 layer를 concat해서 사용한다.
 
 3-2. ensemble은 5 fold를 의미한다. 
+
+--------
+
+# LeaderBoard
+1. RoBERTa (*ensemble x* / *pytorch*) : 0.704
+
