@@ -1,6 +1,7 @@
 # kaggle_tweeter
 Kaggle Tweeter code repository
--------
+
+___________________
 
 # 회의 및 아이디어 기록 (Posts on ideas and meetup)
 - [23 April] EDA 및 모델링 아이디어 공유
