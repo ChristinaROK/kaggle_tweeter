@@ -46,8 +46,8 @@ ___________________
 1-2. Additional layer
 
 - MLP layer
-- CNN layer
-- ? 
+- CNN layer (roberta embedding -> CNN bigram filter -> CNN bigram filter의 구조인데 두번째 CNN bigram filter를 왜 하는지 모르겠다. filter output에 bigram 하는 것이 무슨 의미가 있지?)
+- **[CNN for text clf](https://arxiv.org/pdf/1408.5882.pdf) 적용. kernel size 변화시켜 cocat하여 **
 
 
 
